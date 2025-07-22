@@ -23,10 +23,7 @@ Google Fonts - Poppins
 
 Font Awesome Icons
 
-## 📸 Preview
 
-https://storied-melomakarona-5fead7.netlify.app/
----
 
 ```
 login-form-ui/
@@ -35,9 +32,11 @@ login-form-ui/
 ├── style.css         # Styling file
 └── README.md         # Project documentation
 ```
-## 🚀 Getting Started
+## 🔗 Repository Link
 
-### 🔁 git clone https://github.com/Pandurang-More/Login-form.git
+You can view or clone this project directly from GitHub:
+
+**🔗 GitHub Repository:** [Login-form](https://github.com/Pandurang-More/Login-form)
 
 
 
