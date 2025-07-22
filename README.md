@@ -28,18 +28,11 @@ Font Awesome Icons
 https://storied-melomakarona-5fead7.netlify.app/
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-[git clone https://github.com/yourusername/login-form-ui.git](https://github.com/Pandurang-More/Login-form)
-'''
 ```
 login-form-ui/
-├── index.html       # Main HTML file
-├── style.css        # CSS styling
-└── README.md        # Project documentation
+│
+├── index.html        # Main HTML file
+├── style.css         # Styling file
+└── README.md         # Project documentation
 ```
-
 
