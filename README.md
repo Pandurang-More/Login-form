@@ -40,5 +40,5 @@ login-form-ui/
 ### 🔁 Clone the Repository
 
 ```bash
-[git clone https://github.com/yourusername/login-form-ui.git](https://github.com/Pandurang-More/Login-form)
 
+ git clone https://github.com/Pandurang-More/Login-form
