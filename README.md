@@ -14,11 +14,18 @@ A responsive and modern **Login Form UI** built using **HTML5** and **CSS3**, en
 - Sign up CTA
 
 ---
+🛠️ Technologies Used
+HTML5
+
+CSS3
+
+Google Fonts - Poppins
+
+Font Awesome Icons
 
 ## 📸 Preview
 
-![Login Form Preview](https://user-images.githubusercontent.com/yourusername/your-preview-image.png)
-
+https://storied-melomakarona-5fead7.netlify.app/
 ---
 
 ## 🚀 Getting Started
@@ -26,10 +33,13 @@ A responsive and modern **Login Form UI** built using **HTML5** and **CSS3**, en
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/login-form-ui.git
+[git clone https://github.com/yourusername/login-form-ui.git](https://github.com/Pandurang-More/Login-form)
 '''
+```
 login-form-ui/
-│
-├── index.html        # Main HTML file
-├── style.css         # Styling file
-└── README.md         # Project documentation '''
+├── index.html       # Main HTML file
+├── style.css        # CSS styling
+└── README.md        # Project documentation
+```
+
+
