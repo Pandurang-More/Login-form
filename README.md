@@ -35,4 +35,10 @@ login-form-ui/
 ├── style.css         # Styling file
 └── README.md         # Project documentation
 ```
+## 🚀 Getting Started
+
+### 🔁 Clone the Repository
+
+```bash
+[git clone https://github.com/yourusername/login-form-ui.git](https://github.com/Pandurang-More/Login-form)
 
