@@ -37,8 +37,7 @@ login-form-ui/
 ```
 ## 🚀 Getting Started
 
-### 🔁 Clone the Repository
+### 🔁 git clone https://github.com/Pandurang-More/Login-form.git
 
-```bash
 
- git clone https://github.com/Pandurang-More/Login-form
+
